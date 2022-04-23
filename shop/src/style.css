@@ -1,0 +1,27 @@
+
+.banner{
+    width: 100%;
+    height: 730px;
+}
+.cart_card img{
+    width: 200px;
+    height: 200px;
+}
+.details_card img{
+    width: 300px;
+    height: 300px;
+    
+}
+.product_card:hover,.cart_card:hover{
+    cursor: pointer;
+}
+Link:hover{
+    text-decoration: none;
+}
+
+.signup_page{
+
+    background-color: #045de9;
+    background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
+    height: 100vh;
+}
